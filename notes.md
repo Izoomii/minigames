@@ -1,1 +1,1 @@
-doing all this just to use one html and js file
+ping pong game still needs some cleanup but it's technically complete
